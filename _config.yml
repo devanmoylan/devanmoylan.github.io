@@ -1,0 +1,21 @@
+# Site settings
+title: Lifelong learning
+header-img: img/home-bg.png
+email: dmmoylan@gmail.com
+copyright_name: devanmoylan
+description: > # this means to ignore newlines until "baseurl:"
+  Chapter 32
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: 
+github_username:  devanmoylan
+learn_profile: devanmoylan
+email_username: dmmoylan@gmail.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
