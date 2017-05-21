@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  MY PATH TO PROGRAMMING
-date:   2017-05-21 23:04:01 +0000
+date:   2017-05-21 19:04:02 -0400
 ---
 
 
